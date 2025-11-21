@@ -1,4 +1,6 @@
 package latihan4_isp.good;
 
-public class Editable {
+// Interface untuk capability EDITING
+public interface Editable {
+    void edit(String content);
 }

@@ -1,4 +1,6 @@
 package latihan4_isp.good;
 
-public class Calculable {
+// Interface untuk capability CALCULATION
+public interface Calculable {
+    void calculate(String formula);
 }

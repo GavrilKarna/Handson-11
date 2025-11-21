@@ -1,4 +1,6 @@
 package latihan4_isp.good;
 
-public class Printable {
+// Interface untuk capability PRINTING
+public interface Printable {
+    void print();
 }

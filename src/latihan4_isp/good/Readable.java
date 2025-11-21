@@ -1,4 +1,6 @@
 package latihan4_isp.good;
 
-public class Readable {
+// Interface kecil dan focused untuk capability READING
+public interface Readable {
+    void read();
 }

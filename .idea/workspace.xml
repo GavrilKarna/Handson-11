@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0397e476-9562-4897-adbf-f8f55835b7ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutputScreenshots/latihan4_isp-ISPPractice-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutputScreenshots/latihan4_isp-ISPPractice-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutputScreenshots/latihan4_isp-ISPPractice-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutputScreenshots/latihan5_dip-DIPPractice-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutputScreenshots/latihan5_dip-DIPPractice-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/DIPPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/bad/CardValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/bad/FraudDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/bad/NotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/bad/PaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/bad/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/bad/TransactionLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/CardValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/DatabaseTransactionLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/EmailNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/FraudDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/LuhnCardValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/NotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/PayPalPaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/PaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/RuleBasedFraudDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/StripePaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/latihan5_dip/good/TransactionLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/ISPPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/ISPPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/bad/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/bad/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/bad/ImageDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/bad/ImageDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/bad/PdfDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/bad/PdfDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/bad/WordDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/bad/WordDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/Calculable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/Calculable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/Editable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/Editable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/ImageDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/ImageDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/PdfDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/PdfDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/Printable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/Readable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/Readable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/Resizable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/Resizable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/SpreadsheetDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/SpreadsheetDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan4_isp/good/WordDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan4_isp/good/WordDocument.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35mFtlwSKkBEhqF09rmMTJKOzDY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DIPPractice.executor": "Run",
+    "Application.ISPPractice.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/asus/OneDrive/Documents/Pemrograman Berorientasi Objek folder/handson-11/SOLIDPrinciplesPractice_ISP_DIP/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\OneDrive\Documents\Pemrograman Berorientasi Objek folder\handson-11\SOLIDPrinciplesPractice_ISP_DIP\OutputScreenshots" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DIPPractice">
+    <configuration name="DIPPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="latihan5_dip.DIPPractice" />
+      <module name="SOLIDPrinciplesPractice_ISP_DIP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="latihan5_dip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ISPPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="latihan4_isp.ISPPractice" />
+      <module name="SOLIDPrinciplesPractice_ISP_DIP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="latihan4_isp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DIPPractice" />
+        <item itemvalue="Application.ISPPractice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0397e476-9562-4897-adbf-f8f55835b7ad" name="Changes" comment="" />
+      <created>1763707558339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763707558339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
